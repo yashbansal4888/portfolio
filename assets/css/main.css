@@ -49,7 +49,7 @@
 /*--------------------------------------------------------------
 # General Styling & Shared Classes
 --------------------------------------------------------------*/
-@media (max-width: 575.98px) {    .lo{ width: 442px;}
+@media (max-width: 575.98px) {    .lo{ width: 108vw !important;}
  }
 
 body {
